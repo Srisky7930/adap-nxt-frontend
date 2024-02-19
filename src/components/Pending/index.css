@@ -1,0 +1,45 @@
+.items {
+    margin: 0px;
+    list-style-type: none;
+    display: flex;
+}
+
+li {
+    padding-right: 100px;
+}
+
+
+th {
+    padding-right: 30px;
+}
+
+td {
+    padding-right: 30px;
+}
+
+
+.link {
+    text-decoration: none;
+    font-family: Roboto;
+    color: blue;
+}
+
+
+.table {
+    margin-top: 20px;
+    background-color: white;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.table-content {
+    text-align: center;
+}
+
+td {
+    border: 1px solid black;
+}
